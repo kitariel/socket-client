@@ -1,0 +1,1 @@
+{"version":3,"file":"delays.d.ts","sourceRoot":"","sources":["../../../../src/machines/socket-client/options/delays.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,QAAQ,CAAC;AAC1C,OAAO,EAAE,eAAe,EAAE,cAAc,EAAE,MAAM,UAAU,CAAC;AAE3D,QAAA,MAAM,MAAM,EAAE,gBAAgB,CAAC,eAAe,EAAE,cAAc,CAAM,CAAC;AAErE,eAAe,MAAM,CAAC"}

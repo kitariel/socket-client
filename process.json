@@ -1,0 +1,6 @@
+{
+  "name": "Socket Client",
+  "script": "./server.js",
+  "max_memory_restart": "200M",
+  "max_restarts": 20
+}

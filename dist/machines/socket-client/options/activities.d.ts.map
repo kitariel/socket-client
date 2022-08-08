@@ -1,0 +1,1 @@
+{"version":3,"file":"activities.d.ts","sourceRoot":"","sources":["../../../../src/machines/socket-client/options/activities.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,QAAQ,CAAC;AACxC,OAAO,EAAE,eAAe,EAAE,cAAc,EAAE,MAAM,UAAU,CAAC;AAC3D,OAAO,EAAE,OAAO,EAAE,MAAM,UAAU,CAAC;AAEnC,QAAA,MAAM,UAAU,EAAE,OAAO,CAAC,cAAc,CAAC,eAAe,EAAE,cAAc,CAAC,CAAM,CAAC;AAEhF,eAAe,UAAU,CAAC"}

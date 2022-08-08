@@ -1,0 +1,1 @@
+{"version":3,"file":"logger.d.ts","sourceRoot":"","sources":["../../../../src/machines/socket-client/options/logger.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,QAAQ,CAAC;AAC3C,OAAO,EAAE,eAAe,EAAE,cAAc,EAAE,MAAM,UAAU,CAAC;AAM3D,QAAA,MAAM,OAAO,EAAE,iBAAiB,CAAC,eAAe,EAAE,cAAc,CA6B/D,CAAC;AAEF,eAAe,OAAO,CAAC"}
